@@ -11,8 +11,23 @@
     <h1>Convertisseur d'Unités</h1>
     <input type="number" id="inputValue" placeholder="Entrez la valeur">
     <select id="inputUnit">
-        <option value="meters">Mètres</option>
         <option value="kilometers">Kilomètres</option>
+        <option value="hectometers">Hectomètres</option>
+        <option value="decameters">Décamètres</option>
+        <option value="meters">Mètres</option>
+        <option value="decimeters">Décimètres</option>
+        <option value="centimeters">Centimètres</option>
+        <option value="millimeters">Millimètres</option>
+    </select>
+    en
+    <select id="outputUnit">
+        <option value="kilometers">Kilomètres</option>
+        <option value="hectometers">Hectomètres</option>
+        <option value="decameters">Décamètres</option>
+        <option value="meters">Mètres</option>
+        <option value="decimeters">Décimètres</option>
+        <option value="centimeters">Centimètres</option>
+        <option value="millimeters">Millimètres</option>
     </select>
     <button onclick="convert()">Convertir</button>
     <p id="result"></p>
