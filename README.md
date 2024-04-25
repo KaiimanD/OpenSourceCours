@@ -9,7 +9,7 @@ Ce projet est développé en HTML, CSS et JavaScript, et il est configuré pour 
 
 Pour installer le projet localement, suivez ces étapes :
 
-1. Clonez le dépôt sur votre machine locale :
+1. Clonez ou téléchargez le dépôt sur votre machine locale :
 
 ```bash
 git clone https://github.com/KaiimanD/OpenSourceCours.git
@@ -21,26 +21,22 @@ git clone https://github.com/KaiimanD/OpenSourceCours.git
 
 4. Si vous utilisez MAMP ou un serveur similaire, placez le projet dans votre dossier htdocs ou équivalent, puis naviguez via le serveur local dans votre navigateur.
 
-**Comment contribuer**
+5. Lancez le convertisseur en accédant à l'index.html à travers votre serveur local ou l'extension Live Server pour démarrer le convertisseur.
 
-Nous encourageons la collaboration et sommes heureux d'accueillir de nouvelles contributions. Voici comment vous pouvez participer :
+6. Sélectionnez les unités de mesure en saisissant la valeur que vous souhaitez convertir dans le champ prévu à cet effet.
 
-- Rapports de bugs : Si vous trouvez un bug, veuillez utiliser le template de rapport de bug dans le dossier .github/ISSUE_TEMPLATE pour créer un issue.
-- Demandes de fonctionnalités : Avez-vous une idée pour améliorer le projet ? Utilisez le template de demande de fonctionnalité pour soumettre votre idée dans le dossier.github/ISSUE_TEMPLATE.
-- Pull Requests : Vous souhaitez proposer des améliorations directes au code ? Merci de :
+7. Effectuez la conversion en cliquant sur le bouton de conversion pour obtenir le résultat.
 
-    - Forker le dépôt.
+**Fonctionnalités**
 
-    - Créer une branche pour votre contribution.
+- Support de multiples unités de mesure : Notre convertisseur prend en charge une large gamme d'unités, de la longueur au poids, en passant par la vitesse et la température.
+- Conversions précises : Obtenez des résultats précis grâce à des formules de conversion éprouvées.
+- Facile à étendre : Le convertisseur est conçu pour permettre l'ajout facile de nouvelles unités de mesure.
+- Interface intuitive : Avec une interface simple, la conversion d'unités n'a jamais été aussi facile.
+Support et Contribution
 
-    - Faites vos changements et soumettez une Pull Request en suivant le template disponible dans .github/PULL_REQUEST_TEMPLATE.
+**Support et Contribution**
 
-- Ajout de nouvelles unités : Aidez-nous à étendre la liste des unités que notre convertisseur peut traiter.
-- Amélioration du design : Si le design peut être amélioré, vos idées et contributions sont les bienvenues.
-- Traductions : Aidez-nous à rendre cet outil accessible à un public plus large en le traduisant dans d'autres langues.
-
-**Support**
-
-Si vous avez des questions ou besoin d'aide avec le projet, n'hésitez pas à créer un issue ou à contacter les mainteneurs directement.
+Si vous rencontrez des problèmes ou si vous avez des suggestions, n'hésitez pas à ouvrir une issue en utilisant les templates appropriés dans notre dossier .github. Pour plus d'informations sur la manière de contribuer, veuillez consulter notre fichier CONTRIBUTING.md.
 
 Nous sommes impatients de voir vos contributions et de travailler ensemble pour créer le meilleur convertisseur de mesures web possible !
