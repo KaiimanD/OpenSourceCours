@@ -8,7 +8,10 @@
 </head>
 
 <body>
-    <h1>Convertisseur d'Unités</h1>
+    <div class="header">
+        <h1>Convertisseur d'Unités</h1>
+    </div>
+    <div class="calculation-container">
     <input type="number" id="inputValue" placeholder="Entrez la valeur">
     <select id="inputUnit">
         <option value="kilometers">Kilomètres</option>
@@ -39,6 +42,7 @@
     </select>
     <button onclick="convert()">Convertir</button>
     <p id="result"></p>
+</div>
     <script src="script.js"></script>
 </body>
 
