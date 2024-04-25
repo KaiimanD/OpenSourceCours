@@ -5,7 +5,7 @@ function convert() {
     let inputInMeters; // Valeur d'entrée convertie en mètres
     let result; // Résultat de la conversion
 
-    
+
     if (['kilograms', 'grams', 'milligrams', 'pounds'].includes(inputUnit)) {
         // Convertir l'entrée en grammes si l'unité est une unité de poids
         switch (inputUnit) {
@@ -34,7 +34,7 @@ function convert() {
             case "millimeters": inputInMeters = inputValue * 0.001; break;
             default: inputInMeters = inputValue; // default to meters if unknown
         }
-    
+
         // Convertir les mètres en unité de sortie
         switch (outputUnit) {
             case "kilometers": result = inputInMeters / 1000; break;
@@ -46,10 +46,10 @@ function convert() {
             case "millimeters": result = inputInMeters * 1000; break;
             default: result = inputInMeters; // default to meters if unknown
         }
-       
+
     }
 
     document.getElementById('result').innerText = `Le résultat est : ${result.toFixed(2)} ${outputUnit}`;
 }
-   
+
 
