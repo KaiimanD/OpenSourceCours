@@ -26,14 +26,14 @@ git clone https://github.com/KaiimanD/OpenSourceCours.git
 Nous encourageons la collaboration et sommes heureux d'accueillir de nouvelles contributions. Voici comment vous pouvez participer :
 
 - Rapports de bugs : Si vous trouvez un bug, veuillez utiliser le template de rapport de bug dans le dossier .github/ISSUE_TEMPLATE pour créer un issue.
-- Demandes de fonctionnalités : Avez-vous une idée pour améliorer le projet ? Utilisez le template de demande de fonctionnalité pour soumettre votre idée.
+- Demandes de fonctionnalités : Avez-vous une idée pour améliorer le projet ? Utilisez le template de demande de fonctionnalité pour soumettre votre idée dans le dossier.github/ISSUE_TEMPLATE.
 - Pull Requests : Vous souhaitez proposer des améliorations directes au code ? Merci de :
 
-Forker le dépôt.
+    - Forker le dépôt.
 
-Créer une branche pour votre contribution.
+    - Créer une branche pour votre contribution.
 
-Faites vos changements et soumettez une Pull Request en suivant le template disponible dans .github/PULL_REQUEST_TEMPLATE.
+    - Faites vos changements et soumettez une Pull Request en suivant le template disponible dans .github/PULL_REQUEST_TEMPLATE.
 
 - Ajout de nouvelles unités : Aidez-nous à étendre la liste des unités que notre convertisseur peut traiter.
 - Amélioration du design : Si le design peut être amélioré, vos idées et contributions sont les bienvenues.
