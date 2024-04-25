@@ -9,15 +9,17 @@ Ce projet est développé en HTML, CSS et JavaScript, et il est configuré pour 
 
 Pour installer le projet localement, suivez ces étapes :
 
-1.Clonez le dépôt sur votre machine locale :
+1. Clonez le dépôt sur votre machine locale :
 
 ```bash
 git clone https://github.com/KaiimanD/OpenSourceCours.git
 ```
 
-2.Ouvrez le dossier du projet dans votre éditeur de code.
-3.Si vous utilisez Visual Studio Code, installez l'extension Live Server et lancez le projet.
-4.Si vous utilisez MAMP ou un serveur similaire, placez le projet dans votre dossier htdocs ou équivalent, puis naviguez via le serveur local dans votre navigateur.
+2. Ouvrez le dossier du projet dans votre éditeur de code.
+
+3. Si vous utilisez Visual Studio Code, installez l'extension Live Server et lancez le projet.
+
+4. Si vous utilisez MAMP ou un serveur similaire, placez le projet dans votre dossier htdocs ou équivalent, puis naviguez via le serveur local dans votre navigateur.
 
 **Comment contribuer**
 
@@ -26,9 +28,13 @@ Nous encourageons la collaboration et sommes heureux d'accueillir de nouvelles c
 - Rapports de bugs : Si vous trouvez un bug, veuillez utiliser le template de rapport de bug dans le dossier .github/ISSUE_TEMPLATE pour créer un issue.
 - Demandes de fonctionnalités : Avez-vous une idée pour améliorer le projet ? Utilisez le template de demande de fonctionnalité pour soumettre votre idée.
 - Pull Requests : Vous souhaitez proposer des améliorations directes au code ? Merci de :
+
 Forker le dépôt.
+
 Créer une branche pour votre contribution.
+
 Faites vos changements et soumettez une Pull Request en suivant le template disponible dans .github/PULL_REQUEST_TEMPLATE.
+
 - Ajout de nouvelles unités : Aidez-nous à étendre la liste des unités que notre convertisseur peut traiter.
 - Amélioration du design : Si le design peut être amélioré, vos idées et contributions sont les bienvenues.
 - Traductions : Aidez-nous à rendre cet outil accessible à un public plus large en le traduisant dans d'autres langues.
